@@ -1,0 +1,2 @@
+# ImageResolution
+基于react实现的图片解析成色块的功能
